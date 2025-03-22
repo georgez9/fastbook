@@ -3,6 +3,8 @@ models/
 tmp/
 *.bak
 *.pkl
+datasets/
+outputs/
 bears/
 __pycache__/
 .last_checked
